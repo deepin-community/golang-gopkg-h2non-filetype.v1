@@ -1,0 +1,2 @@
+symlink_to_dir /usr/share/gocode/src/github.com/h2non/filetype ../../gopkg.in/h2non/filetype.v1 1.1.3+ds1-1~
+dir_to_symlink /usr/share/gocode/src/gopkg.in/h2non/filetype.v1 ../../github.com/h2non/filetype 1.1.3+ds1-1~
